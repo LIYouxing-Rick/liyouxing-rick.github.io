@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "Youxing LI",
+    "email": "1155253288@link.cuhk.edu.hk",
+    "phone": "",
+    "website": "https://liyouxing-rick.github.io",
+    "summary": "MSc student at CUHK, researching Multimodal Learning, Riemannian Deep Learning, and Data Mining.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Hong Kong / Shenzhen",
+      "countryCode": "CN",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "LIYouxing-Rick",
+        "url": "https://github.com/LIYouxing-Rick"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "youxingli",
+        "url": "https://www.linkedin.com/in/youxingli"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bauhinia AI Limited / Prof. Kani Chen's Lab @ HKUST",
+      "position": "Agent Algorithms Engineer",
+      "website": "https://tradingnews.press",
+      "startDate": "2025-09-01",
+      "endDate": "2026-02-28",
+      "summary": "Led end-to-end development of TradingNews.press, an AI-powered financial news analysis platform with multi-agent workflow orchestration.",
+      "highlights": [
+        "Led end-to-end development of TradingNews.press from inception, encompassing algorithm design, system architecture, and production deployment.",
+        "Architected CRDR workflow orchestration (Channel→Relevant→Decision→ReAct) using LangGraph state machines with parallel processing.",
+        "Developed 7 specialized financial analysis agents with custom prompt engineering and Pydantic output schemas.",
+        "Implemented text-grad architecture with stock price tracking and prompt propagation computation graph via LLM-as-a-judge framework."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "The Chinese University of Hong Kong (CUHK)",
+      "area": "MSc in Advanced Statistics and Data Science",
+      "studyType": "Master's",
+      "startDate": "2025-09-01",
+      "endDate": "2026-06-30",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Hong Kong University of Science and Technology (HKUST)",
+      "area": "Exchange Program in Quantitative Finance",
+      "studyType": "Exchange",
+      "startDate": "2023-01-01",
+      "endDate": "2023-06-30",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Xi'an Jiaotong University (XJTU)",
+      "area": "BSc in Quantitative Finance — Jinhe Center for Economic Research",
+      "studyType": "Bachelor's",
+      "startDate": "2021-09-01",
+      "endDate": "2025-06-30",
+      "gpa": "87.04/100",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research Areas",
+      "keywords": ["Multimodal Learning", "Reinforcement Learning", "Data Mining", "Riemannian Deep Learning", "Optimal Transport"]
+    },
+    {
+      "name": "Technical",
+      "keywords": ["Python", "LangGraph", "LLM Agent Development", "Pydantic", "Prompt Engineering", "Riemannian Geometry"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": ["Music", "Playing the Drum Kit", "Fitness", "Running"]
+    }
+  ],
+  "references": [],
+  "publications": [
+    {
+      "name": "Riemannian Sliced Wasserstein Distance on Correlation Matrix",
+      "publisher": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "Proposed Correlation Sliced-Wasserstein (CorSW) on the manifold of full-rank correlation matrices, leveraging closed-form Busemann projections to accelerate Riemannian optimal transport. Under review."
+    }
+  ],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": [
+    {
+      "name": "TradingNews.press — AI Financial News Platform",
+      "category": "portfolio",
+      "date": "2025-09-01",
+      "url": "https://tradingnews.press",
+      "description": "AI-powered financial news analysis and investment signal generation platform built with multi-agent workflow orchestration."
+    },
+    {
+      "name": "Tsinghua Economic Hotspot Analysis Competition — Top 1%",
+      "category": "portfolio",
+      "date": "2023-07-01",
+      "url": "",
+      "description": "Led team research on AI-enabled coal mining transformation. Built Cobb-Douglas model, conducted field research at 6 enterprises."
+    }
+  ]
+}
