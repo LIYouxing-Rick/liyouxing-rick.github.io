@@ -17,7 +17,7 @@ Recent News
 ======
 - 📄 **Paper**: *Riemannian Sliced Wasserstein Distance on Correlation Matrix* — currently under review.
 - 🤖 **Led development of [TradingNews.press](https://tradingnews.press)** at Bauhinia AI Limited, building an AI-powered financial news analysis platform with multi-agent workflow orchestration, serving active users for automated investment signal generation.
-- 🎓 **Start a new journey of the ASDS (Advaced Study in Statistics and Data Science) program at CUHK.
+- 🎓 **Start a new journey of the ASDS (Advaced Study in Statistics and Data Science) program at CUHK.**
 
 Background
 ======
