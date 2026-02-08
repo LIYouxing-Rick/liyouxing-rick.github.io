@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm **Youxing LI**, a Master's student in **Advanced Statistics and Data Science** at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/). I obtained my Bachelor's degree in **Quantitative Finance and Mathematical Economics** from [Xi'an Jiaotong University (XJTU)](http://www.xjtu.edu.cn/), **Jinhe Center(an elite school of XJTU)**, and spent an exchange semester at [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/).
+Hi! I'm **Youxing LI**, a Master's student in **Advanced Statistics and Data Science** at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/). I obtained my Bachelor's degree in **Quantitative Finance and Mathematical Economics** from [Xi'an Jiaotong University (XJTU)](http://www.xjtu.edu.cn/), **Jinhe Center(an elite school of XJTU)**, and spent an exchange semester at [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/). Currently, I am engaged in deep and precise collaboration with [Ziheng CHEN](https://gitzh-chen.github.io).
 
 Research Interests
 ======
