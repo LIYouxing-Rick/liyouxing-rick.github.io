@@ -16,7 +16,7 @@ My research focuses on the intersection of **Multimodal learning**，**Reinforce
 Recent News
 ======
 - 📄 **Paper**: *Riemannian Sliced Wasserstein Distance on Correlation Matrix* — currently under review (more information please refer to the PDF CV sent via email).
-- 🤖 **Led development of [TradingNews.press](https://tradingnews.press)** at Bauhinia AI Limited, building an AI-powered financial news analysis platform with multi-agent workflow orchestration, serving active users for automated investment signal generation.
+- 🤖 **Led development of [TradingNews.press](https://tradingnews.press)** at Bauhinia AI Limited, building an AI-powered financial news analysis platform with a multi-agent orchestration architecture, serving active users for automated investment signal generation.
 - 🎓 **Start a new journey of the ASDS (Advaced Study in Statistics and Data Science) program at CUHK.**
 
 Background
