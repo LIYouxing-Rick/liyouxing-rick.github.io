@@ -7,21 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm **Youxing LI (李有行)**, a Master's student in **Advanced Statistics and Data Science** at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/). I obtained my Bachelor's degree in **Quantitative Finance** from [Xi'an Jiaotong University (XJTU)](http://www.xjtu.edu.cn/), and spent an exchange semester at [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/).
+Hi! I'm **Youxing LI**, a Master's student in **Advanced Statistics and Data Science** at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/). I obtained my Bachelor's degree in **Quantitative Finance and Mathematical Economics** from [Xi'an Jiaotong University (XJTU)](http://www.xjtu.edu.cn/), Jinhe Center(an elite school of XJTU), and spent an exchange semester at [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/).
 
 Research Interests
 ======
-My research focuses on the intersection of **geometry** and **machine learning**, with particular emphasis on:
-- **Riemannian Deep Learning** — Optimal transport on matrix manifolds
-- **Multimodal Learning** — Cross-modal alignment and representation learning
-- **Data Mining** — Financial signal extraction and structured reasoning
-- **Reinforcement Learning** — Agent architectures and workflow orchestration
+My research focuses on the intersection of **Multimodal learning**，**Reinforce Learning**, **Computer Vision**, **Data Mining** and their extension on **Riemannian Deep Learning**
 
-Recent Highlights
+Recent News
 ======
 - 📄 **Paper**: *Riemannian Sliced Wasserstein Distance on Correlation Matrix* — currently under review.
 - 🤖 **Led development of [TradingNews.press](https://tradingnews.press)** at Bauhinia AI Limited, building an AI-powered financial news analysis platform with multi-agent workflow orchestration, serving active users for automated investment signal generation.
-- 🎓 **MSc at CUHK** (2025–2026, expected), previously **BSc at XJTU** with exchange at HKUST.
+- 🎓 **Start a new journey of the ASDS(Advaced Study in Statistics and Data Science) program at CUHK.
 
 Background
 ======
