@@ -19,14 +19,14 @@ My research focuses on the intersection of **geometry** and **machine learning**
 
 Recent Highlights
 ======
-- 📄 **Paper under review at CVPR 2026**: *Riemannian Sliced Wasserstein Distance on Correlation Matrix*, proposing Correlation Sliced-Wasserstein (CorSW) on the manifold of full-rank correlation matrices with closed-form Busemann projections for accelerated Riemannian optimal transport.
+- 📄 **Paper**: *Riemannian Sliced Wasserstein Distance on Correlation Matrix* — currently under review.
 - 🤖 **Led development of [TradingNews.press](https://tradingnews.press)** at Bauhinia AI Limited, building an AI-powered financial news analysis platform with multi-agent workflow orchestration, serving active users for automated investment signal generation.
 - 🎓 **MSc at CUHK** (2025–2026, expected), previously **BSc at XJTU** with exchange at HKUST.
 
 Background
 ======
-I have hands-on experience as an **Agent Algorithms Engineer** at Bauhinia AI Limited (affiliated with Prof. Kani Chen's lab at HKUST), where I designed multi-agent systems using LangGraph, developed specialized financial analysis agents, and implemented text-grad optimization architectures. 
+I have hands-on experience as an **Agent Algorithms Engineer** at Bauhinia AI Limited and is superviced by Prof. Kani CHEN, where I designed multi-agent systems using LangGraph, developed specialized financial analysis agents, and implemented text-grad optimization architectures. 
 
-Beyond academics, I served as **President of the Business Career Club** at XJTU (2024–2025) and led a team to **Top 1%** in the Tsinghua Economic Hotspot Analysis Competition.
+Beyond academics, I am a mumber of **Business Career Club of XJTU** and served as the President of the club (2024–2025). I also led a team to **Top 1%** in the 13th Tsinghua Economic Hotspot Analysis Competition (“今经乐道”经济热点分析大赛).
 
 In my free time, I enjoy 🎵 music, 🥁 playing the drum kit, 💪 fitness, and 🏃 running.

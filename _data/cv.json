@@ -103,7 +103,7 @@
       "publisher": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)",
       "releaseDate": "2026-01-01",
       "website": "",
-      "summary": "Proposed Correlation Sliced-Wasserstein (CorSW) on the manifold of full-rank correlation matrices, leveraging closed-form Busemann projections to accelerate Riemannian optimal transport. Under review."
+      "summary": "Currently under review."
     }
   ],
   "presentations": [],

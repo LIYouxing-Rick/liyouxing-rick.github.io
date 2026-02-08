@@ -21,7 +21,7 @@ Education
 
 Publication
 ======
-* **Youxing, L.**, & Zihen, C. (2026). *Riemannian Sliced Wasserstein Distance on Correlation Matrix*. Under review at **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)**. Review scores: 6/3/4 with the highest confidence 4 of the full review scores 6.
+* **Youxing, L.**, & Zihen, C. (2026). *Riemannian Sliced Wasserstein Distance on Correlation Matrix*. Currently under review.
 
 Work Experience
 ======
