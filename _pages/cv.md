@@ -21,7 +21,7 @@ Education
 
 Publication
 ======
-* **Youxing, L.**, & Zihen, C. (2026). *Riemannian Sliced Wasserstein Distance on Correlation Matrix*. Currently under review.
+* **Youxing, L.**, & Zihen, C. (2026). *Riemannian Sliced Wasserstein Distance on Correlation Matrix*. Currently under review (more information please refer to the PDF CV sent via email).
 
 Work Experience
 ======
