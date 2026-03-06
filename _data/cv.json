@@ -91,10 +91,17 @@
   "publications": [
     {
       "name": "Riemannian Sliced Wasserstein Distance on Correlation Matrix",
-      "publisher": "Under review",
+      "publisher": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)",
       "releaseDate": "2026-01-01",
       "website": "",
-      "summary": "Currently under review."
+      "summary": "Youxing, L., & Zihen, C. (2026). Under review. Review scores: 5/4/5. Confidence: 4/2/2."
+    },
+    {
+      "name": "Geometry-Aware Second-Order Pooling for Fine-Grained Visual Recognition",
+      "publisher": "Under review",
+      "releaseDate": "2026-03-07",
+      "website": "",
+      "summary": "Youxing, L. & Zihen, C. currently under review."
     }
   ],
   "presentations": [],

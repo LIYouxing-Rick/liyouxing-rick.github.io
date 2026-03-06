@@ -19,7 +19,8 @@ Education
 
 Publication
 ======
-* **Youxing, L.**, & Zihen, C. (2026). *Riemannian Sliced Wasserstein Distance on Correlation Matrix*. Currently under review (more information please refer to the PDF CV sent via email).
+* **Youxing, L.**, & Zihen, C. (2026). *Riemannian Sliced Wasserstein Distance on Correlation Matrix*. Under review at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026). Review scores: 5/4/5. Confidence: 4/2/2.
+* **Youxing, L.** & Zihen, C. *Geometry-Aware Second-Order Pooling for Fine-Grained Visual Recognition* currently under review.
 
 Work Experience
 ======
