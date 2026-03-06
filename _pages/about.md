@@ -15,7 +15,7 @@ My research focuses on the intersection of **Multimodal learning**，**Reinforce
 
 Recent News
 ======
-- 📄 **Paper**: Youxing, L., & Zihen, C. (2026). *Riemannian Sliced Wasserstein Distance on Correlation Matrix*. Under review at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026). Review scores: 5/4/5. Confidence: 4/2/2.
+- 📄 **Paper**: Youxing, L., & Zihen, C. (2026). *Riemannian Sliced Wasserstein Distance on Correlation Matrix*. submitted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026). Review scores: 5/4/5. Confidence: 4/2/2.
 - 📄 **Paper**: Youxing, L. & Zihen, C. *Geometry-Aware Second-Order Pooling for Fine-Grained Visual Recognition* currently under review.
 - 🤖 **Led development of [TradingNews.press](https://tradingnews.press)** at Bauhinia AI Limited, building an AI-powered financial news analysis platform with a multi-agent orchestration architecture, serving active users for automated investment signal generation.
 
