@@ -11,8 +11,6 @@ redirect_from:
 
 Education
 ======
-* **M.S. in Advanced Statistics and Data Science**, The Chinese University of Hong Kong (CUHK), 2025.9 – 2026.6 (expected)
-  * School of Data Science and Statistics
 * **Exchange Program in Quantitative Finance**, Hong Kong University of Science and Technology (HKUST), 2023.1 – 2023.6
   * School of Business and Management
 * **B.S. in Quantitative Finance**, Xi'an Jiaotong University (XJTU), 2021.9 – 2025.6

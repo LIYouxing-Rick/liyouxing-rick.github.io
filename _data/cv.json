@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Youxing LI",
-    "email": "1155253288@link.cuhk.edu.hk",
+    "email": "rickliyouxing@163.com",
     "phone": "",
     "website": "https://liyouxing-rick.github.io",
-    "summary": "MSc student at CUHK, researching Multimodal Learning, Riemannian Deep Learning, and Data Mining.",
+    "summary": "Researching Multimodal Learning, Riemannian Deep Learning, and Data Mining.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -42,15 +42,6 @@
     }
   ],
   "education": [
-    {
-      "institution": "The Chinese University of Hong Kong (CUHK)",
-      "area": "MSc in Advanced Statistics and Data Science",
-      "studyType": "Master's",
-      "startDate": "2025-09-01",
-      "endDate": "2026-06-30",
-      "gpa": null,
-      "courses": []
-    },
     {
       "institution": "Hong Kong University of Science and Technology (HKUST)",
       "area": "Exchange Program in Quantitative Finance",
